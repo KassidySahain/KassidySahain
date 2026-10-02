@@ -62,6 +62,6 @@ Laboratorio académico en NandGame sobre la construcción de puertas NOT, AND, O
 ### 💻 Propuesta de PC para redes y virtualización
 Propuesta académica de selección de hardware orientada al estudio de redes informáticas y máquinas virtuales. Incluye componentes, criterios de selección y consideraciones de compatibilidad.
 
-[Ver propuesta de PC](https://github.com/KassidySahain/pc-redes-virtualizacion)
+[Ver propuesta de PC](https://github.com/KassidySahain/pc-redes-virtualizaci-n)
 
 📍 Panamá
