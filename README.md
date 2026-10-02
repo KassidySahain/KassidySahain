@@ -52,4 +52,16 @@ y certificaciones, con la meta de prepararme para CCNA.
 En este espacio iré compartiendo proyectos académicos, prácticas
 y documentación que reflejen mi aprendizaje y evolución.
 
+## 📂 Mis proyectos
+
+### 🔌 Puertas lógicas con NAND
+Laboratorio académico en NandGame sobre la construcción de puertas NOT, AND, OR y XOR utilizando NAND. Incluye el informe y evidencias de la práctica.
+
+[Ver proyecto de puertas lógicas](https://github.com/KassidySahain/puertas-logicas-nand)
+
+### 💻 Propuesta de PC para redes y virtualización
+Propuesta académica de selección de hardware orientada al estudio de redes informáticas y máquinas virtuales. Incluye componentes, criterios de selección y consideraciones de compatibilidad.
+
+[Ver propuesta de PC](https://github.com/KassidySahain/pc-redes-virtualizacion)
+
 📍 Panamá
