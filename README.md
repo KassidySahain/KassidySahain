@@ -64,4 +64,9 @@ Propuesta académica de selección de hardware orientada al estudio de redes inf
 
 [Ver propuesta de PC](https://github.com/KassidySahain/pc-redes-virtualizaci-n)
 
+### 🎨 Cultura Magazine | Branding
+Proyecto de renovación de identidad visual: desarrollo del logo, paleta de colores, tipografía y aplicaciones de marca, con apoyo de inteligencia artificial. Incluye el documento de branding y el video de presentación elaborado por Cultura Magazine.
+
+[Ver proyecto de Cultura Magazine](https://github.com/KassidySahain/cultura-magazine-branding)
+
 📍 Panamá
