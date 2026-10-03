@@ -47,11 +47,6 @@ Desarrollarme en redes informáticas y telecomunicaciones, adquirir
 experiencia práctica y fortalecer mi preparación mediante proyectos
 y certificaciones, con la meta de prepararme para CCNA.
 
-## Mi portafolio
-
-En este espacio iré compartiendo proyectos académicos, prácticas
-y documentación que reflejen mi aprendizaje y evolución.
-
 ## 📂 Mis proyectos
 
 ### 🔌 Puertas lógicas con NAND
