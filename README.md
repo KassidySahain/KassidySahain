@@ -47,21 +47,20 @@ Desarrollarme en redes informáticas y telecomunicaciones, adquirir
 experiencia práctica y fortalecer mi preparación mediante proyectos
 y certificaciones, con la meta de prepararme para CCNA.
 
-## 📂 Mis proyectos
+## Mis proyectos
 
-### 🔌 Puertas lógicas con NAND
+### Puertas lógicas con NAND
 Laboratorio académico en NandGame sobre la construcción de puertas NOT, AND, OR y XOR utilizando NAND. Incluye el informe y evidencias de la práctica.
 
 [Ver proyecto de puertas lógicas](https://github.com/KassidySahain/puertas-logicas-nand)
 
-### 💻 Propuesta de PC para redes y virtualización
+### Propuesta de PC para redes y virtualización
 Propuesta académica de selección de hardware orientada al estudio de redes informáticas y máquinas virtuales. Incluye componentes, criterios de selección y consideraciones de compatibilidad.
 
 [Ver propuesta de PC](https://github.com/KassidySahain/pc-redes-virtualizaci-n)
 
-### 🎨 Cultura Magazine | Branding
+### Cultura Magazine | Branding
 Proyecto de renovación de identidad visual: desarrollo del logo, paleta de colores, tipografía y aplicaciones de marca, con apoyo de inteligencia artificial. Incluye el documento de branding y el video de presentación elaborado por Cultura Magazine.
 
 [Ver proyecto de Cultura Magazine](https://github.com/KassidySahain/cultura-magazine-branding)
 
-📍 Panamá
